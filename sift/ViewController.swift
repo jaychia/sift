@@ -6,7 +6,7 @@
 //  Copyright © 2016 Jay Chia. All rights reserved.
 //
 
-//Test Comment
+//Test Comment number 2
 
 import UIKit
 
